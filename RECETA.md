@@ -7,4 +7,6 @@
 ``` text
 1. MOSTRAR "Bienvenido a mi programa de rectangulo"
 
-```
+2. ingresar la medida de la base 
+3. ingresar la medida de la altura 
+4. mostrar ambos resultados
